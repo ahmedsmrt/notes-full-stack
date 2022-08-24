@@ -1,4 +1,4 @@
-# Project Title
+# Notes With Nuance
 
 >Description:This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to completed this!
 
