@@ -36,7 +36,7 @@ const PrimaryEmotions = () => {
   const handleSecondaryEmotion = (e) => {
     let emotion = e.target.innerHTML;
     for(let secondary of secondaryEmotion) {
-      if(emotion == secondary.word) {
+      if(emotion === secondary.word) {
         setDefinition(secondary.definition)
         setQuote(secondary.quote)
         setAuthor(secondary.author)
@@ -47,7 +47,7 @@ const PrimaryEmotions = () => {
   const handleTertiaryEmotion = (e) => {
     let emotion = e.target.innerHTML;
     for(let tertiary of tertiaryEmotion) {
-      if(emotion == tertiary.word) {
+      if(emotion === tertiary.word) {
         console.log(tertiary)
         setDefinition(tertiary.definition)
         setQuote(tertiary.quote)
