@@ -48,7 +48,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Ahmed Gasim]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
