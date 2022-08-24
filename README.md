@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>Description:This application is one of my personal favorites. A full stack note app that with a twist that promotes mental health. Using the MERN stack to build this beautiful app was a challenging yet rewarding expereince. From setting up the REST Api to adding the last front end feature I can say there was not a moment I wasn't excited to completed this!
 
-## Available Scripts
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+>Some unique features to this app are simple in nature in terms of technological implementation and were made that way to encourage simplicity. 
+The first unique feature is the ability to define each emotion. This feature is simply a state change in React but essentially offers people the ability to break down complex emotions into simple ones by defining it more. With the same functionality there is a quote that is shown for every word to help create a deeper understanding to the word itself. Each and every definition and quote was handpicked to the best of my ability and i'm sure there is room for growth there but I was pretty happy about what I ended up with.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Example Code
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+>Show what your code does as concisely as possible. Users should be able to figure out **how** your project solves their problem by looking at the example.
+>Also include the example code as a file in your repo (named `example.js` or in an `example` directory) so that users can run the code if they clone down the repository.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+>Node js, ReactJs, Express, MongoDB, Mongoose
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Built With
 
-### `npm run eject`
+>List of tech languages, frameworks/libraries, and tools used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Javascript] - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [ReactJS] - https://reactjs.org/docs/getting-started.html
+- [NodeJS] - https://nodejs.org/en/docs/
+- [Express] - https://expressjs.com/en/5x/api.html
+- [Franer-Motion] - https://www.framer.com/docs/
+- [Mongoose] - https://mongoosejs.com/docs/api.html
+- [MongoDB] - https://www.mongodb.com/developer/
+  
+## The Why
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+>The reason why I developed this note app was because I am currently in the mid stages of my self taught developement journey and needed to work on an application that I was passionate about. The idea came from my unending interest in bettering mental health in myself and my community. I've realized over the years that there aren't a lot of applications helping people with breaking down difficult problems into simpler more understandle ones and one of the biggest problems i've seen in a lot of areas of life is communicating ones emotions. Whether that's with someone else or themself, that information isn't usually readily available to people or even thought about. With this app you are able to not only learn more about how you feel but keep track of it in a notes. With a simple feature based on a well known tool used in therapy, the emotion wheel. I hope that with this as a starter point I can truly start building more applications that could help people navigate a mindful approach to understanding their emotions and help bring clarity and understanding to how they feel from day to day.
+  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Author(s)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+>Developed by Ahmed Gasim 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+MIT License
 
-### Code Splitting
+Copyright (c) [year] [fullname]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-### Analyzing the Bundle Size
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-### Making a Progressive Web App
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
